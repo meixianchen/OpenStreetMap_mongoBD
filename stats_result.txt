@@ -1,0 +1,87 @@
+a document from the data
+{u'_id': ObjectId('59241a82a066efe32137bfdf'),
+ u'created': {u'changeset': u'48269111',
+              u'timestamp': u'2017-04-29T22:45:46Z',
+              u'uid': u'7412',
+              u'user': u'mjulius',
+              u'version': u'7'},
+ u'id': u'453654',
+ u'pos': [47.4570631, 8.2758702],
+ u'type': u'node'}
+Number of documents
+3146330
+Number of nodes
+2718046
+Number of documents
+427559
+Number of unique unsers
+2340
+Top 5 contributing users
+[{u'_id': u'178186', u'count': 493724},
+ {u'_id': u'92387', u'count': 292844},
+ {u'_id': u'1218134', u'count': 129066},
+ {u'_id': u'465052', u'count': 96271},
+ {u'_id': u'194843', u'count': 93636}]
+Number of amenities
+26914
+Top 20 amenities
+[{u'_id': u'parking', u'count': 5503},
+ {u'_id': u'bench', u'count': 3736},
+ {u'_id': u'restaurant', u'count': 2199},
+ {u'_id': u'drinking_water', u'count': 1574},
+ {u'_id': u'school', u'count': 1110},
+ {u'_id': u'post_box', u'count': 1021},
+ {u'_id': u'waste_basket', u'count': 972},
+ {u'_id': u'vending_machine', u'count': 892},
+ {u'_id': u'bicycle_parking', u'count': 864},
+ {u'_id': u'parking_entrance', u'count': 596},
+ {u'_id': u'recycling', u'count': 590},
+ {u'_id': u'place_of_worship', u'count': 486},
+ {u'_id': u'kindergarten', u'count': 443},
+ {u'_id': u'fuel', u'count': 432},
+ {u'_id': u'toilets', u'count': 421},
+ {u'_id': u'cafe', u'count': 421},
+ {u'_id': u'fast_food', u'count': 415},
+ {u'_id': u'fountain', u'count': 406},
+ {u'_id': u'car_sharing', u'count': 400},
+ {u'_id': u'atm', u'count': 386}]
+Top 10 cusine
+[{u'_id': u'regional', u'count': 271},
+ {u'_id': u'italian', u'count': 211},
+ {u'_id': u'pizza', u'count': 133},
+ {u'_id': u'asian', u'count': 71},
+ {u'_id': u'thai', u'count': 67},
+ {u'_id': u'burger', u'count': 66},
+ {u'_id': u'kebab', u'count': 60},
+ {u'_id': u'chinese', u'count': 46},
+ {u'_id': u'coffee_shop', u'count': 45},
+ {u'_id': u'international', u'count': 43}]
+Top 10 tourist place
+[{u'_id': u'information', u'count': 1397},
+ {u'_id': u'picnic_site', u'count': 559},
+ {u'_id': u'hotel', u'count': 248},
+ {u'_id': u'artwork', u'count': 234},
+ {u'_id': u'viewpoint', u'count': 207},
+ {u'_id': u'museum', u'count': 139},
+ {u'_id': u'attraction', u'count': 116},
+ {u'_id': u'guest_house', u'count': 22},
+ {u'_id': u'camp_site', u'count': 15},
+ {u'_id': u'hostel', u'count': 10}]
+recycling place
+[{u'_id': u'underground', u'count': 1},
+ {u'_id': u'dump', u'count': 1},
+ {u'_id': u'underfloor-container', u'count': 1},
+ {u'_id': u'centre', u'count': 41},
+ {u'_id': u'container', u'count': 204}]
+top 5 items with the fewest recycling spot
+[{u'_id': u'tin', u'count': 1},
+ {u'_id': u'hardcore', u'count': 1},
+ {u'_id': u'compost', u'count': 1},
+ {u'_id': u'aerosol_cans', u'count': 1},
+ {u'_id': u'dvds', u'count': 1}]
+top 5 items with the most recycling spot
+[{u'_id': u'glass', u'count': 258},
+ {u'_id': u'cans', u'count': 234},
+ {u'_id': u'clothes', u'count': 161},
+ {u'_id': u'glass_bottles', u'count': 113},
+ {u'_id': u'scrap_metal', u'count': 103}]
